@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "graphql-python",
+  "repo": "webob-graphql",
+  "versions": [
+    {
+      "commit": "0c3fc392973272b76b796fd3afee970a07f9fad0",
+      "parsed_at": "2026-10-20T23:50:53.487913+00:00",
+      "filetree": "filetree/0c3fc392973272b76b796fd3afee970a07f9fad0.nq.gz",
+      "blobs": [
+        "blob/6a6be069861d34c2854970cf5ae4fca1343f1cfd.nq.gz",
+        "blob/52554b12f7440a86754a78a204d31dace2e3346d.nq.gz",
+        "blob/8785c3a35d69c8eaaaff46ee3a25cd02f45c4837.nq.gz",
+        "blob/48a24e883a588cc87e40db02c4cb958307910b94.nq.gz",
+        "blob/642f015bf654723c3863819074fc78c5dbe328a6.nq.gz",
+        "blob/3c0e42964018da5c5ce9c643f1d145f9c9296809.nq.gz",
+        "blob/0de3d9e2a57681298b0cbf5286a371b450f6fe30.nq.gz",
+        "blob/dbfe62783de62cafcad6a6f3a90f4e2f0e23634e.nq.gz",
+        "blob/5ad91dbe8e895c202e59bfdf7c2984aec2019b25.nq.gz",
+        "blob/a6342161056603c59987455927a17b012b77149b.nq.gz",
+        "blob/b6ff2043f2cc918fa4bdf6f3de58edf53146f133.nq.gz",
+        "blob/211c150d22ea5eac760defa20c9a64e0acfd51ff.nq.gz",
+        "blob/39a036a2cd29c34f1ae3ae98585591d3d354eb9e.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/456b5f17f0582b269a707bda8581fc1dfb7e6559.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
